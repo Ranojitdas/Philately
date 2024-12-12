@@ -1,0 +1,83 @@
+buildscript {
+    ext.kotlin_version = '1.9.10' // Latest stable Kotlin version
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.1.4' // Updated to latest AGP
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.google.gms:google-services:4.4.2' // Firebase services
+    }
+}
+
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+    id 'kotlin-android'
+    id 'dev.flutter.flutter-gradle-plugin'
+}
+
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode') ?: '1'
+def flutterVersionName = localProperties.getProperty('flutter.versionName') ?: '1.0'
+
+android {
+    namespace "com.example.philately"
+    compileSdkVersion 35 // Latest compile SDK version
+    ndkVersion flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    defaultConfig {
+        applicationId "com.example.philately"
+        minSdkVersion 21
+        targetSdkVersion 35
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+        multiDexEnabled true // Enable multidex support
+    }
+
+    buildFeatures {
+        viewBinding true // Enable ViewBinding for easier UI handling
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true // Enable ProGuard for release builds
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation "androidx.multidex:multidex:2.0.1" // Multidex support
+    implementation platform('com.google.firebase:firebase-bom:32.2.3') // Firebase BOM for dependency alignment
+    implementation 'com.google.firebase:firebase-analytics-ktx' // Firebase Analytics KTX
+    implementation 'com.google.firebase:firebase-auth-ktx' // Firebase Auth KTX
+    implementation 'com.google.firebase:firebase-firestore-ktx' // Firebase Firestore KTX
+}

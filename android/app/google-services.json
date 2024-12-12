@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "558263618065",
+    "project_id": "philatelix-ecommerce-app",
+    "storage_bucket": "philatelix-ecommerce-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558263618065:android:6ad56f4a8f6cd1d663bfb0",
+        "android_client_info": {
+          "package_name": "com.example.philately"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558263618065-kc5l811nbmr5i5cnpqdcjamvsrbk97df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.philately",
+            "certificate_hash": "30a083469c355c51e10e56d5ae46a255c4de7fbf"
+          }
+        },
+        {
+          "client_id": "558263618065-5nh42hcngbhbnehea2r3361c8rpg1rsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvk-2q9XAoD0HP0xy1UqtfEZEPblBHHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558263618065-5nh42hcngbhbnehea2r3361c8rpg1rsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558263618065-bqjn3dm3kpag42ns20a8itkp4dff2vj5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.philately"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
