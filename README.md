@@ -16,4 +16,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 
 ## 🚀 Features & Functionality
 
-### 📝 1. Sign Up & Secure User Authentication
+#### 📝 1. Sign Up & Secure User Authentication
