@@ -26,3 +26,6 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - Users can **register online** with a **₹200 deposit** to access **exclusive stamp releases**.
 - Secure data storage with **Firebase authentication**.
 - **Digital integration** with the **Philatelic Bureau**.
+
+
+### 🏠 3. Personalized Home Page
