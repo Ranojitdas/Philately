@@ -17,3 +17,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 ## 🚀 Features & Functionality
 
 #### 📝 1. Sign Up & Secure User Authentication
+- **Firebase Authentication** ensures **safe & seamless login**.
