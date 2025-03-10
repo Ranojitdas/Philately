@@ -19,4 +19,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 #### 📝 1. Sign Up & Secure User Authentication
 - **Firebase Authentication** ensures **safe & seamless login**.
 - **Email verification** adds an extra layer of **security**.
-- 
+- Users can set their **stamp preferences** (Miniature, Rare, or Indian stamps) during **sign-up**.
