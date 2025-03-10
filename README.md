@@ -20,3 +20,6 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - **Firebase Authentication** ensures **safe & seamless login**.
 - **Email verification** adds an extra layer of **security**.
 - Users can set their **stamp preferences** (Miniature, Rare, or Indian stamps) during **sign-up**.
+
+
+### 💰 2. National Philately Deposit Account (NPDA) 🏛️
