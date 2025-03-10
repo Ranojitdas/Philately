@@ -29,3 +29,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 
 
 ### 🏠 3. Personalized Home Page
+- **Dynamic content** updates based on **user preferences**.
