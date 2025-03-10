@@ -38,3 +38,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
   - Worldwide Stamps 🌍
   - Indian Stamps 🇮🇳
   - Rare & Exclusive Stamps 🏅
+- Get **detailed descriptions & historical insights**.
