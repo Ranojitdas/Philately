@@ -1,1 +1,1 @@
-# 📮 Philately - The Ultimate Stamp Collection App
+# 📮 Philately - The Ultimate Stamp Selling App
