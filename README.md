@@ -31,7 +31,7 @@ With a **seamless user experience, secure transactions, and advanced search feat
 ### 🏠 3. Personalized Home Page
 - **Dynamic content** updates based on **user preferences**.
 - A visually engaging **UI/UX** for **seamless browsing**.
-
+ - **Worldwide Stamps** 🌍
 
 ### 🔍 4. Explore Stamps – Discover & Learn
 - Browse a **vast collection of stamps**, categorized into:
