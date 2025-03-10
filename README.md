@@ -36,3 +36,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 ### 🔍 4. Explore Stamps – Discover & Learn
 - Browse a **vast collection of stamps**, categorized into:
   - Worldwide Stamps 🌍
+  - Indian Stamps 🇮🇳
