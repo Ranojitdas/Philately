@@ -1,0 +1,40 @@
+plugins {
+    id("com.android.application")
+    id("kotlin-android")
+    id("dev.flutter.flutter-gradle-plugin")
+}
+
+android {
+    namespace = "com.example.philately"
+    compileSdk = 34  // Ensure this matches your Flutter compileSdkVersion
+    ndkVersion = "25.2.9519653" // Ensure this is correct
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17  // Ensure Java 17 is used
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"  // Set JVM target to 17 (21 is not supported)
+    }
+
+    defaultConfig {
+        applicationId = "com.example.philately"
+        minSdk = 21  // Ensure this matches Flutter minSdkVersion
+        targetSdk = 34  // Ensure this matches Flutter targetSdkVersion
+        versionCode = 1  // Set your app's version code
+        versionName = "1.0"  // Set your app's version name
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false  // Ensure correct syntax
+            shrinkResources false
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
