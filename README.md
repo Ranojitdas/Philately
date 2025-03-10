@@ -37,3 +37,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - Browse a **vast collection of stamps**, categorized into:
   - Worldwide Stamps 🌍
   - Indian Stamps 🇮🇳
+  - Rare & Exclusive Stamps 🏅
