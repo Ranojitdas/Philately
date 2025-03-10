@@ -39,3 +39,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
   - Indian Stamps 🇮🇳
   - Rare & Exclusive Stamps 🏅
 - Get **detailed descriptions & historical insights**.
+- **Smart search & filters** to easily find your desired stamps.
