@@ -54,3 +54,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 
 ## 🛠️ Tech Stack
 - **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Authentication & Firestore Database)
