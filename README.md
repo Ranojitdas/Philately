@@ -47,3 +47,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - **Secure checkout** ensures a reliable buying experience.
 
 ### ❤️ 6. Wishlist – Save & Manage Your Favorites
+- Easily **bookmark stamps** to revisit later.
