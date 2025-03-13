@@ -81,3 +81,4 @@ flutter run
 - **📩 In-App Notifications** – Alerts for new stamp releases.
 - **🔍 Advanced Search & Filters** – More precise search functionality.
 - **🤝 Community Feature** – Users can connect & trade stamps.
+- **📸 AI-Powered Stamp Recognition** – Scan & identify stamps using AI.
