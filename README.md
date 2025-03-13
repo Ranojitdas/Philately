@@ -45,3 +45,5 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - **Simple Add-to-Cart** system for smooth transactions.
 - **Order tracking** to monitor purchases.
 - **Secure checkout** ensures a reliable buying experience.
+
+### ❤️ 6. Wishlist – Save & Manage Your Favorites
