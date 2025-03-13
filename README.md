@@ -40,3 +40,5 @@ With a **seamless user experience, secure transactions, and advanced search feat
   - Rare & Exclusive Stamps 🏅
 - Get **detailed descriptions & historical insights**.
 - **Smart search & filters** to easily find your desired stamps.
+
+### 🛒 5. Buy Stamps – Hassle-Free Shopping
