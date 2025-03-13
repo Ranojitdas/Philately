@@ -51,3 +51,5 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - Manage and organize your **saved collection** efficiently.
 
 ---
+
+## 🛠️ Tech Stack
