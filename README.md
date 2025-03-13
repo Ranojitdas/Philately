@@ -65,3 +65,5 @@ With a **seamless user experience, secure transactions, and advanced search feat
 git clone https://github.com/Ranojitdas/Philately.git  
 cd Philately
 ```
+
+### 🔹 2. Install Dependencies
