@@ -79,3 +79,4 @@ flutter run
 ---
 ## 🌍 Future Scope & Enhancements
 - **📩 In-App Notifications** – Alerts for new stamp releases.
+- **🔍 Advanced Search & Filters** – More precise search functionality.
