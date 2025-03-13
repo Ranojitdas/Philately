@@ -53,3 +53,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 ---
 
 ## 🛠️ Tech Stack
+- **Frontend**: Flutter (Dart)
