@@ -70,3 +70,5 @@ cd Philately
 ```bash
 flutter pub get
 ```
+
+### 🔹 3. Run the App
