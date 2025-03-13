@@ -67,3 +67,4 @@ cd Philately
 ```
 
 ### 🔹 2. Install Dependencies
+```bash
