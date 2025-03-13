@@ -61,3 +61,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 
 ## 📌 Installation & Setup
 ### 🔹 1. Clone the Repository
+```bash
