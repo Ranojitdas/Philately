@@ -56,3 +56,6 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - **Frontend**: Flutter (Dart)
 - **Backend**: Firebase (Authentication & Firestore Database)
 - **State Management**: GetX
+
+---
+
