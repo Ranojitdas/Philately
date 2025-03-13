@@ -42,3 +42,4 @@ With a **seamless user experience, secure transactions, and advanced search feat
 - **Smart search & filters** to easily find your desired stamps.
 
 ### 🛒 5. Buy Stamps – Hassle-Free Shopping
+- **Simple Add-to-Cart** system for smooth transactions.
