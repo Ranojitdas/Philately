@@ -49,3 +49,5 @@ With a **seamless user experience, secure transactions, and advanced search feat
 ### ❤️ 6. Wishlist – Save & Manage Your Favorites
 - Easily **bookmark stamps** to revisit later.
 - Manage and organize your **saved collection** efficiently.
+
+---
