@@ -105,3 +105,4 @@ welcome contributions! To contribute:
 ### 4️⃣ Explore Stamps Section
 ![Explore Stamps](path/to/Screenshot4.png)  
 ### 5️⃣ Buy & Wishlist Feature
+![Buy & Wishlist](path/to/Screenshot5.png)  
