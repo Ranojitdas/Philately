@@ -108,7 +108,6 @@ welcome contributions! To contribute:
 <div align="center">
   <figure>
     <img src="path/to/Screenshot2.png" alt="User Login" width="300" />
-    <figcaption>User Login</figcaption>
   </figure>
 </div>
 
