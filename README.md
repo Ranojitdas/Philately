@@ -97,7 +97,7 @@ welcome contributions! To contribute:
 ## 📸 Screenshots
 
 ### 1️⃣ Welcome & Sign-Up Page 
-![Welcome & Sign-Up](path/to/Screenshot 2025-03-08 234824.png)  
+<img src="Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" />
 ### 2️⃣ User Login & Authentication
 ![User Login](path/to/Screenshot2.png) 
 ### 3️⃣ Personalized Home Page
