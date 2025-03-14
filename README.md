@@ -103,3 +103,4 @@ welcome contributions! To contribute:
 ### 3️⃣ Personalized Home Page
 ![Home Page](path/to/Screenshot3.png)
 ### 4️⃣ Explore Stamps Section
+![Explore Stamps](path/to/Screenshot4.png)  
