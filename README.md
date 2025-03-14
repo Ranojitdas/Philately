@@ -86,3 +86,4 @@ flutter run
 ---
 
 ## 🤝 Contributing
+welcome contributions! To contribute:
