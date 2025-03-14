@@ -100,3 +100,4 @@ welcome contributions! To contribute:
 ![Welcome & Sign-Up](path/to/Screenshot1.png)  
 ### 2️⃣ User Login & Authentication
 ![User Login](path/to/Screenshot2.png) 
+### 3️⃣ Personalized Home Page
