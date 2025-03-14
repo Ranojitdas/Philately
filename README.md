@@ -94,6 +94,7 @@ welcome contributions! To contribute:
 4. **Submit a pull request**
 
 ---
-## 📸 Screenshots & Captions
+## 📸 Screenshots
 
 ### 1️⃣ Welcome & Sign-Up Page 
+![Welcome & Sign-Up](path/to/Screenshot1.png)  
