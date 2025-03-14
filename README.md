@@ -97,7 +97,7 @@ welcome contributions! To contribute:
 ## 📸 Screenshots
 
 ### 1️⃣ Welcome & Sign-Up Page 
-![Welcome & Sign-Up](Screenshot 2025-03-08 234824.png)  
+![Welcome & Sign-Up](Philately/Screenshot 2025-03-08 234824.png)  
 ### 2️⃣ User Login & Authentication
 ![User Login](path/to/Screenshot2.png) 
 ### 3️⃣ Personalized Home Page
