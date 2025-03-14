@@ -95,3 +95,5 @@ welcome contributions! To contribute:
 
 ---
 ## 📸 Screenshots & Captions
+
+### 1️⃣ Welcome & Sign-Up Page 
