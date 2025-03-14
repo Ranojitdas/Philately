@@ -100,7 +100,7 @@ welcome contributions! To contribute:
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" width="300" />
-    <figcaption>Welcome & Sign-Up</figcaption>
+  
   </figure>
 </div>
 
