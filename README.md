@@ -97,12 +97,41 @@ welcome contributions! To contribute:
 ## 📸 Screenshots
 
 ### 1️⃣ Welcome & Sign-Up Page 
-<img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" width="600" />
+<div align="center">
+  <figure>
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" width="300" />
+    <figcaption>Welcome & Sign-Up</figcaption>
+  </figure>
+</div>
+
 ### 2️⃣ User Login & Authentication
-![User Login](path/to/Screenshot2.png) 
+<div align="center">
+  <figure>
+    <img src="path/to/Screenshot2.png" alt="User Login" width="300" />
+    <figcaption>User Login</figcaption>
+  </figure>
+</div>
+
 ### 3️⃣ Personalized Home Page
-![Home Page](path/to/Screenshot3.png)
+<div align="center">
+  <figure>
+    <img src="path/to/Screenshot3.png" alt="Home Page" width="300" />
+    <figcaption>Home Page</figcaption>
+  </figure>
+</div>
+
 ### 4️⃣ Explore Stamps Section
-![Explore Stamps](path/to/Screenshot4.png)  
+<div align="center">
+  <figure>
+    <img src="path/to/Screenshot4.png" alt="Explore Stamps" width="300" />
+    <figcaption>Explore Stamps</figcaption>
+  </figure>
+</div>
+
 ### 5️⃣ Buy & Wishlist Feature
-![Buy & Wishlist](path/to/Screenshot5.png)  
+<div align="center">
+  <figure>
+    <img src="path/to/Screenshot5.png" alt="Buy & Wishlist" width="300" />
+    <figcaption>Buy & Wishlist</figcaption>
+  </figure>
+</div>
