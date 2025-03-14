@@ -82,3 +82,6 @@ flutter run
 - **🔍 Advanced Search & Filters** – More precise search functionality.
 - **🤝 Community Feature** – Users can connect & trade stamps.
 - **📸 AI-Powered Stamp Recognition** – Scan & identify stamps using AI.
+
+---
+
