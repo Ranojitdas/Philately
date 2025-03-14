@@ -87,3 +87,5 @@ flutter run
 
 ## 🤝 Contributing
 welcome contributions! To contribute:
+
+1. **Fork the repository**
