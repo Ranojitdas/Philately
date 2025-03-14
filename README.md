@@ -97,7 +97,7 @@ welcome contributions! To contribute:
 ## 📸 Screenshots
 
 ### 1️⃣ Welcome & Sign-Up Page 
-<img src="Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" />
+<img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" width="600" />
 ### 2️⃣ User Login & Authentication
 ![User Login](path/to/Screenshot2.png) 
 ### 3️⃣ Personalized Home Page
