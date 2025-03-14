@@ -115,7 +115,7 @@ welcome contributions! To contribute:
 <div align="center">
   <figure>
     <img src="path/to/Screenshot3.png" alt="Home Page" width="300" />
-    <figcaption>Home Page</figcaption>
+    
   </figure>
 </div>
 
@@ -123,7 +123,6 @@ welcome contributions! To contribute:
 <div align="center">
   <figure>
     <img src="path/to/Screenshot4.png" alt="Explore Stamps" width="300" />
-    <figcaption>Explore Stamps</figcaption>
   </figure>
 </div>
 
@@ -131,6 +130,5 @@ welcome contributions! To contribute:
 <div align="center">
   <figure>
     <img src="path/to/Screenshot5.png" alt="Buy & Wishlist" width="300" />
-    <figcaption>Buy & Wishlist</figcaption>
   </figure>
 </div>
