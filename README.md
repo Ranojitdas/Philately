@@ -104,7 +104,7 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 2️⃣ National 
+### 2️⃣ National Phiately 
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235147.png" alt="User Login" width="300" />
