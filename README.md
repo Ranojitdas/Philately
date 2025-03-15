@@ -129,6 +129,6 @@ welcome contributions! To contribute:
 ### 5️⃣ Buy & Wishlist Feature
 <div align="center">
   <figure>
-    <img src="path/to/Screenshot5.png" alt="Buy & Wishlist" width="300" />
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Buy & Wishlist" width="300" />
   </figure>
 </div>
