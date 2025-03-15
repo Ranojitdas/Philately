@@ -104,14 +104,14 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 2️⃣ Email Authentication
+### 2️⃣  Authentication
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235147.png" alt="User Login" width="300" />
   </figure>
 </div>
 
-### 3️⃣ 
+### 3️⃣ Email
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235512.png" alt="Home Page" width="300" />
