@@ -126,7 +126,7 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 5️⃣ Buy & Wishlist Feature
+### 5️⃣ Other Features
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235620.png" alt="Buy & Wishlist" width="300" />
