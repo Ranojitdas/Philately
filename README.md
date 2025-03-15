@@ -114,7 +114,7 @@ welcome contributions! To contribute:
 ### 3️⃣ Personalized Home Page
 <div align="center">
   <figure>
-    <img src="path/to/Screenshot3.png" alt="Home Page" width="300" />
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Home Page" width="300" />
     
   </figure>
 </div>
