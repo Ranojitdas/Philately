@@ -96,7 +96,7 @@ welcome contributions! To contribute:
 ---
 ## 📸 Screenshots
 
-### 1️⃣ Welcome & Sign-Up Page 
+### 1️⃣ User Login 
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Welcome & Sign-Up" width="300" />
@@ -104,7 +104,7 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 2️⃣ User Login & Authentication
+### 2️⃣ Email Authentication
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235512.png" alt="User Login" width="300" />
