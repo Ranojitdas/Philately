@@ -107,14 +107,14 @@ welcome contributions! To contribute:
 ### 2️⃣ Email Authentication
 <div align="center">
   <figure>
-    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235512.png" alt="User Login" width="300" />
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235147.png" alt="User Login" width="300" />
   </figure>
 </div>
 
 ### 3️⃣ 
 <div align="center">
   <figure>
-    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Home Page" width="300" />
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235512.png" alt="Home Page" width="300" />
     
   </figure>
 </div>
