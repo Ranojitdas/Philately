@@ -111,7 +111,7 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 3️⃣ Personalized Home Page
+### 3️⃣ 
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Home Page" width="300" />
@@ -119,7 +119,7 @@ welcome contributions! To contribute:
   </figure>
 </div>
 
-### 4️⃣ Explore Stamps Section
+### 4️⃣ Personalized Home Page
 <div align="center">
   <figure>
     <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot 2025-03-08 235600.png" alt="Explore Stamps" width="300" />
