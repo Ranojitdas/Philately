@@ -122,7 +122,7 @@ welcome contributions! To contribute:
 ### 4️⃣ Explore Stamps Section
 <div align="center">
   <figure>
-    <img src="path/to/Screenshot4.png" alt="Explore Stamps" width="300" />
+    <img src="https://github.com/Ranojitdas/Philately/blob/master/Screenshot%202025-03-08%20234824.png" alt="Explore Stamps" width="300" />
   </figure>
 </div>
 
