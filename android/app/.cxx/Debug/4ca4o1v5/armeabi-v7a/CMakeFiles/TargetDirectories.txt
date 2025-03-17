@@ -1,2 +1,0 @@
-D:/SIH 2024/Philately App/Philately -/android/app/.cxx/Debug/4ca4o1v5/armeabi-v7a/CMakeFiles/edit_cache.dir
-D:/SIH 2024/Philately App/Philately -/android/app/.cxx/Debug/4ca4o1v5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
